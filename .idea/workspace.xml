@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3051aa13-9df0-4856-96d6-350fa0b33712" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KoKoBananaProblem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/KokoEatBanana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestKoko.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/KokoEatBanana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/KokoEatBanana.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683652660350</updated>
-      <workItem from="1683652661464" duration="3483000" />
+      <workItem from="1683652661464" duration="4031000" />
     </task>
     <servers />
   </component>

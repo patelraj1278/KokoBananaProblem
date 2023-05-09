@@ -4,6 +4,7 @@ public class KokoEatBanana {
         int time=0;
         for(int p:piles){
             time+=(p-1)/k+1;
+            System.out.println("for Pile =>"+p+".. For speed.. "+k+".. time =>"+time);
             if(time>h) break;
         }
         return time<=h;
@@ -28,12 +29,12 @@ public class KokoEatBanana {
         int k = m.findMinSpeed(piles,8);
         System.out.println("Result =>"+k);
 
-        int[] piles2 = {30,11,23,4,20};
-        int k1 = m.findMinSpeed(piles2,5);
-        System.out.println("Result =>"+k1);
-        int[] piles3 = {30,11,23,4,20};
-        int k2 = m.findMinSpeed(piles3,6);
-        System.out.println("Result =>"+k2);
+        //int[] piles2 = {30,11,23,4,20};
+        //int k1 = m.findMinSpeed(piles2,5);
+        //System.out.println("Result =>"+k1);
+        //int[] piles3 = {30,11,23,4,20};
+        //int k2 = m.findMinSpeed(piles3,6);
+        //System.out.println("Result =>"+k2);
 
     }
 }
